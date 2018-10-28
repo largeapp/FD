@@ -72,6 +72,6 @@
 * [收录风控领域相关算法Paper](https://github.com/csearch/risky-algorithm-research)
 
 ### Reference links
-* [Fraud Detection papers](https://github.com/IPL/fraud-detection-papers)
+* [Fraud Detection papers](https://github.com/IPL/fraud-detection-papers) by Xinyu Wang
 
 
