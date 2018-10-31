@@ -18,7 +18,7 @@
 ### Association Rule
 * [Using Association Rules for Fraud Detection in Web Advertising Networks](https://p2p.cs.ucsb.edu/research/tech_reports/reports/2005-13.pdf) by Ahmed Metwally et al. VLDB 2005.
 
-### Competition
+### FDMA 2012 Competition
 * [Detecting Click Fraud in Online Advertising: A Data Mining Approach](http://www.jmlr.org/papers/volume15/oentaryo14a/oentaryo14a.pdf) by Richard Oentaryo et al. JMLR 2014.
 * [Feature Engineering for Click Fraud Detection](http://research.larc.smu.edu.sg/fdma2012/doc/FirstWinner-Starrystarrynight-Paper.pdf) by Clifton Phua et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
 * [A Novel Approach Based on Ensemble Learning for Fraud Detection in Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/SecondWinner-TeamMasdar-Paper.pdf) by Kasun S. Perera et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
