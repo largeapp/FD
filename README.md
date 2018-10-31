@@ -1,6 +1,6 @@
 
-# Fraud Detection Papers
-Fraud detection algorithms, and their application on advertising(e.g. click fraud) and social network(e.g. fake fans), datasets and etc.
+# Fraud Detection
+Papers about Fraud detection algorithms, and their application on advertising(e.g. click fraud) and social network(e.g. fake fans), and datasets.
 
 ## Advertising
 
