@@ -36,7 +36,7 @@
 * [The State of Mobile Fraud Q1 2018](https://hub.appsflyer.com/hubfs/State%20of%20Mobile%20Fraud%20Q1%202018%20AppsFlyer.pdf) by Appsflyer. 2018.
 
 ## Social network
-### fake fans and zombie fans
+### Fake fans and zombie fans
 * Deng, Jing, Xiaoli Gao, and Chunyue Wang. "Using Bi-level Penalized Logistic Classifier to Detect Zombie Accounts in Online Social Networks." In Proceedings of the Fifth International Conference on Network, Communication and Computing, pp. 126-130. ACM, 2016.
 * Wang, Jianbo, Hua Li, and Jianping Zhao. "Micro-blog spammer detection based on characteristics of social behaviors." In Software Engineering and Service Science (ICSESS), 2017 8th IEEE International Conference on, pp. 358-362. IEEE, 2017.
 * Jiang, Hongxun, Yibo Wang, and Mengjun Zhu. "Discrimination of zombie fans on weibo based on features extraction and business-driven analysis." In Proceedings of the 17th International Conference on Electronic Commerce 2015, p. 13. ACM, 2015.
@@ -49,7 +49,7 @@
 * [Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) by Shuhao Wang et al. PKDD 2017. [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
 
 ### Graph algorithms 
-*[ iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection](https://www.hindawi.com/journals/misy/2017/6412521/)
+* [ iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection](https://www.hindawi.com/journals/misy/2017/6412521/) by Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems 2017.
 
 ## Other Application Areas
 
