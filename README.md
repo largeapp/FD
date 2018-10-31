@@ -1,6 +1,6 @@
 
 # Fraud Detection Papers
-
+Fraud detection algorithms, and their application on advertising(e.g. click or conversion fraud) and social network(e.g. fake fans).
 
 ## Advertising
 
@@ -37,11 +37,11 @@
 
 ## Social network
 ### Fake fans and zombie fans
-* Deng, Jing, Xiaoli Gao, and Chunyue Wang. "Using Bi-level Penalized Logistic Classifier to Detect Zombie Accounts in Online Social Networks." In Proceedings of the Fifth International Conference on Network, Communication and Computing, pp. 126-130. ACM, 2016.
-* Wang, Jianbo, Hua Li, and Jianping Zhao. "Micro-blog spammer detection based on characteristics of social behaviors." In Software Engineering and Service Science (ICSESS), 2017 8th IEEE International Conference on, pp. 358-362. IEEE, 2017.
-* Jiang, Hongxun, Yibo Wang, and Mengjun Zhu. "Discrimination of zombie fans on weibo based on features extraction and business-driven analysis." In Proceedings of the 17th International Conference on Electronic Commerce 2015, p. 13. ACM, 2015.
-* 胡学韬, 陈秀真. "基于信任度评估的社交网络虚假账户检测." 信息安全与通信保密 5 (2014): 90-94.
-* 谭侃, 高旻, 李文涛, 田仁丽, 文俊浩, 熊庆宇. "基于双层采样主动学习的社交网络虚假用户检测方法." 自动化学报 43, no. 3 (2017): 448-461.
+* Jing Deng, et al. Using Bi-level Penalized Logistic Classifier to Detect Zombie Accounts in Online Social Networks. In Proceedings of the Fifth International Conference on Network, Communication and Computing, ACM, 2016.
+* Jianbo Wang, et al. Micro-blog spammer detection based on characteristics of social behaviors. In Software Engineering and Service Science (ICSESS), 2017 8th IEEE International Conference on, IEEE, 2017.
+* Hongxun Jiang, et al. Discrimination of zombie fans on weibo based on features extraction and business-driven analysis. In Proceedings of the 17th International Conference on Electronic Commerce, ACM, 2015.
+* 胡学韬 等, 基于信任度评估的社交网络虚假账户检测. 信息安全与通信保密, 2014.
+* 谭侃 等, 基于双层采样主动学习的社交网络虚假用户检测方法. 自动化学报, 2017.
 
 ## Algorithms
 ### Deep learning (RNN)
