@@ -40,8 +40,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 * Jing Deng, et al. Using Bi-level Penalized Logistic Classifier to Detect Zombie Accounts in Online Social Networks. In Proceedings of the Fifth International Conference on Network, Communication and Computing, ACM, 2016.
 * Jianbo Wang, et al. Micro-blog spammer detection based on characteristics of social behaviors. In Software Engineering and Service Science (ICSESS), 2017 8th IEEE International Conference on, IEEE, 2017.
 * Hongxun Jiang, et al. Discrimination of zombie fans on weibo based on features extraction and business-driven analysis. In Proceedings of the 17th International Conference on Electronic Commerce, ACM, 2015.
-* 胡学韬 等, 基于信任度评估的社交网络虚假账户检测. 信息安全与通信保密, 2014.
-* 谭侃 等, 基于双层采样主动学习的社交网络虚假用户检测方法. 自动化学报, 2017.
+* 一种降低微博僵尸粉影响的方法，现代图书情报技术，2012.
 
 ## Algorithms
 ### Deep learning (RNN)
