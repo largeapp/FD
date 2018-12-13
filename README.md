@@ -41,6 +41,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 * Jianbo Wang, et al. Micro-blog spammer detection based on characteristics of social behaviors. In Software Engineering and Service Science (ICSESS), 2017 8th IEEE International Conference on, IEEE, 2017.
 * Hongxun Jiang, et al. Discrimination of zombie fans on weibo based on features extraction and business-driven analysis. In Proceedings of the 17th International Conference on Electronic Commerce, ACM, 2015.
 * 一种降低微博僵尸粉影响的方法，现代图书情报技术，2012.
+* [FRAUDAR: Bounding Graph Fraud in the Face of Camouflage](https://www.andrew.cmu.edu/user/bhooi/projects/fraudar/index.html) by Bryan Hooi et al. KDD 2016.
 
 ## Algorithms
 ### Deep learning (RNN)
