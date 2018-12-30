@@ -27,7 +27,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Yu-Jun Zheng, Xiao-Han Zhou, etc.* Neural Networks, 2018.
 
 ### Graph algorithms
-##### survey#####
+##### Survey
 1. **Graph-based Anomaly Detection and Description: A Survey**
    - *Leman Akoglu, Hanghang Tong, Danai Koutra* 2014.
 
@@ -43,11 +43,11 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **A survey of data mining and social network analysis based anomaly detection techniques**
    - *Ravneet Kaur , Sarbjeet Singh* 2015.
 
-##### network embedding#####
+##### Network Embedding
 1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
    - *Mengyu Zheng, Chuan Zhou, Jia Wu, etc.* 2018.
  
-##### Dynamic#####
+##### Dynamic
 1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
    - *Karel Vaculik and Lubos Popellınsky* 2016.
    
@@ -70,7 +70,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Xiafei Qiu, Wubin Cen, Zhengping Qian, etc.* 2018.
    - Alibaba
    
-##### others#####
+##### others Graph Algorithms
 1. **Behavior Language Processing with Graph based Feature Generation for Fraud Detection in Online Lending**
    - *Wei Min, etc.* 2018.
    
@@ -93,7 +93,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems* 2017. 
    - [Paper](https://www.hindawi.com/journals/misy/2017/6412521/) 
 
-#### Others
+#### Other Related Methods
 1. **Online E-Commerce Fraud: A Large-scale Detection and Analysis** 
    - *Haiqin Weng, Zhao Li, Shouling Ji, etc.*
 
