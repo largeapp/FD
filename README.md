@@ -71,7 +71,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 
 ## Related Applications
 
-#### Anomaly Detection
+### Anomaly Detection
 
 - **Survey**
 1. [Anomaly Detection: A Survey](https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/07-017.pdf) by Varun Chandola et al. ACM Computing Surveys, Vol. 41, No. 3, 15, 01.07.2009.
@@ -81,14 +81,14 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 1. [Python Outlier Detection (PyOD)](http://pyod.readthedocs.io)
 1. [ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io)
 
-#### Credit Card Transaction Fraud
+### Credit Card Transaction Fraud
 1. [Learned lessons in credit card fraud detection from a practitioner perspective](http://www.ulb.ac.be/di/map/adalpozz/pdf/FraudDetectionPaper_8.pdf) by A Dal Pozzolo et al. Expert Systems with Applications, 41(10):4915–4928, 2014.
 1. [APATE: A Novel Approach for Automated Credit Card Transaction Fraud Detection using Network-Based Extensions](https://lirias.kuleuven.be/bitstream/123456789/496406/1/APATE.pdf) by Veronique Van Vlasselaer et al. Decision Support Systems, 2015.
 
 
 ## Related Resources
 
-#### Report and White Paper
+### Report and White Paper
 <!-- * [2017电子商务生态安全白皮书](http://hchdownload.oss-cn-hangzhou.aliyuncs.com/%E4%BC%9A%E8%AE%AE%E6%96%87%E6%A1%A3/2017%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E7%94%9F%E6%80%81%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf) by 电子商务生态安全联盟. 2017.-->
 
 * [Facebook Immune System](https://css.csail.mit.edu/6.858/2012/readings/facebook-immune.pdf) by Tao Stein et al. Proceedings of the 4th Workshop on Social Network Systems, SNS, 2011.
@@ -97,7 +97,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
  * [收集汇总不同行业不同公司，网络上公开的风控或安全的架构、方案、算法](https://github.com/csearch/risky-company-project)
  * [收录风控领域相关算法Paper](https://github.com/csearch/risky-algorithm-research)-->
 
-#### Reference links
+### Reference links
 * [Fraud Detection papers](https://github.com/IPL/fraud-detection-papers) by Xinyu Wang
 
 
