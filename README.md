@@ -8,7 +8,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 2. [Advertising](#advertising)
 3. [Social media](#social-media)  
 4. [Related Applications](#related-applications) 
-5. [Related Resources](related-resources)
+5. [Related Resources](#related-resources)
 
 ## Fraud Detection Algorithms
 #### Deep learning
@@ -23,7 +23,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 *Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems* 2017. [Paper](https://www.hindawi.com/journals/misy/2017/6412521/) 
 
 
-## Fraud Detection in Advertising
+## Advertising
 
 #### Bluff Ads
 1. [Fighting Online Click-Fraud Using Bluff Ads](https://arxiv.org/pdf/1002.2353.pdf) by Hamed Haddadi. ACM Computer Communication Review 2010.
