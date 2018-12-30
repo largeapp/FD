@@ -26,7 +26,6 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems* 2017. 
    - [Paper](https://www.hindawi.com/journals/misy/2017/6412521/) 
 
-
 ## Advertising
 
 #### Bluff Ads
