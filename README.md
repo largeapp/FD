@@ -18,13 +18,72 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 
 1. **Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks** 
    - *Shuhao Wang et al. PKDD* 2017. 
-   - [Paper](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) 
-   - [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
+   - [Paper](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf)    [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
+
+1. **AnoGen: Deep Anomaly Generator** *by Nikolay Laptev* 2018.
 
 #### Graph algorithms 
 1. **iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection** 
    - *Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems* 2017. 
    - [Paper](https://www.hindawi.com/journals/misy/2017/6412521/) 
+
+1. **An Ensemble Approach for Event Detection and Characterization in Dynamic Graphs** 
+   - *Shebuti Rayana, Leman Akoglu* 2014.
+
+1. **Behavior Language Processing with Graph based Feature Generation for Fraud Detection in Online Lending**
+   -*Wei Min, etc.* 2018.
+
+1. **Detecting node propensity changes in the dynamic degree correctedstochastic block model**
+   - *Lisha Yu, William H. Woodall, Kwok-Leung Tsuia* 2018.
+
+1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
+   - *Karel Vaculik and Lubos Popellınsky* 2016.
+   
+1. **FairPlay: Fraud and Malware Detection in Google Play**
+   - *Mahmudur Rahman, etc.*
+   
+1. **Fraud Detection using Graph Topology and Temporal Spikes**
+   - *Shenghua Liu, Bryan Hooi, Christos Faloutsos* 
+   
+1. **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage**
+   - *Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos* 2016.
+   
+1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
+   - *Mengyu Zheng, Chuan Zhou, Jia Wu, etc.* 2018.
+
+1. ****
+   - ** 2018.
+   
+1. ****
+   - ** 2018.
+
+1. ****
+   - ** 2018.
+   
+1. ****
+   - ** 2018.
+
+1. ****
+   - ** 2018.
+
+#### Others
+1. **Online E-Commerce Fraud: A Large-scale Detection and Analysis** 
+   - *Haiqin Weng, Zhao Li, Shouling Ji, etc.*
+
+1. **Next Generation Trustworthy Fraud Detection** 
+   - *Sihong Xie, Philip S. Yuy* 2018.
+
+1. **Incorporating Privileged Information to Unsupervised Anomaly Detection** 
+   - *Shubhranshu Shekhar, Leman Akoglu* 2018.
+
+1. **Feedback-Guided Anomaly Discovery via Online Optimization** 
+   - *Md Amran Siddiqui，Alan Fern，Thomas G. Dietterich, etc.* 2018.
+   - "active learning"
+
+1. **Unorganized Malicious Attacks Detection**  
+   - *Ming Pang, Wei Gao, Min Tao, Zhi-Hua Zhou* 2018.
+   - [Paper](https://arxiv.org/pdf/1610.04086.pdf)
+   - "shilling attacks"
 
 ## Advertising
 
