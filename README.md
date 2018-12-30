@@ -6,13 +6,12 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 
 ## Fraud Detection Algorithms
 ### Deep learning
-1. **Detecting Fraudulent Behavior Using Recurrent Neural Networks** *by Yoshihiro Ando et al. Computer Security Symposium 2016.* [paper](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf)
+1. **Detecting Fraudulent Behavior Using Recurrent Neural Networks** *by Yoshihiro Ando et al. Computer Security Symposium 2016.* [Paper](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf)
 
-* [Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) by Shuhao Wang et al. PKDD 2017. [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
+1. **Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks** *by Shuhao Wang et al. PKDD 2017.* [Paper](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf)  [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
 
 ### Graph algorithms 
-* [ iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection](https://www.hindawi.com/journals/misy/2017/6412521/) by Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems 2017.
-
+1. **iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection** *by Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems 2017.* [Paper](https://www.hindawi.com/journals/misy/2017/6412521/) 
 
 
 ## Fraud Detection in Advertising
