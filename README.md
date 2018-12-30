@@ -10,8 +10,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 4. [Related Applications](#related-applications) 
 5. [Related Resources](#related-resources)
 
-## 1.Fraud Detection Algorithms
-### 1.1 Deep learning
+## Fraud Detection Algorithms
+### Deep learning
 1. **Detecting Fraudulent Behavior Using Recurrent Neural Networks** 
    - *Yoshihiro Ando et al. Computer Security Symposium* 2016. 
    - [Paper](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf)
@@ -26,8 +26,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **Generative adversarial network based telecom fraud detection at the receiving bank**
    - *Yu-Jun Zheng, Xiao-Han Zhou, etc.* Neural Networks, 2018.
 
-### 1.2 Graph algorithms
-##### 1.2.1 Survey
+### Graph algorithms
+##### (1) Survey
 1. **Graph-based Anomaly Detection and Description: A Survey**
    - *Leman Akoglu, Hanghang Tong, Danai Koutra* 2014.
 
@@ -43,11 +43,11 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **A survey of data mining and social network analysis based anomaly detection techniques**
    - *Ravneet Kaur , Sarbjeet Singh* 2015.
 
-##### 1.2.2 Network Embedding
+##### (2) Network Embedding
 1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
    - *Mengyu Zheng, Chuan Zhou, Jia Wu, etc.* 2018.
  
-##### 1.2.3 Dynamic Algorithms
+##### (3) Dynamic Algorithms
 1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
    - *Karel Vaculik and Lubos Popellınsky* 2016.
    
@@ -70,7 +70,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Xiafei Qiu, Wubin Cen, Zhengping Qian, etc.* 2018.
    - Alibaba
    
-##### 1.2.4 Others Graph Algorithms
+##### (4) Others Graph Algorithms
 1. **Behavior Language Processing with Graph based Feature Generation for Fraud Detection in Online Lending**
    - *Wei Min, etc.* 2018.
    
@@ -93,7 +93,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems* 2017. 
    - [Paper](https://www.hindawi.com/journals/misy/2017/6412521/) 
 
-#### 1.3 Other Related Methods
+#### Other Related Methods
 1. **Online E-Commerce Fraud: A Large-scale Detection and Analysis** 
    - *Haiqin Weng, Zhao Li, Shouling Ji, etc.*
 
@@ -112,7 +112,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - [Paper](https://arxiv.org/pdf/1610.04086.pdf)
    - "shilling attacks"
 
-## 2. Advertising
+## Advertising
 
 #### Bluff Ads
 1. [Fighting Online Click-Fraud Using Bluff Ads](https://arxiv.org/pdf/1002.2353.pdf) by Hamed Haddadi. ACM Computer Communication Review 2010.
