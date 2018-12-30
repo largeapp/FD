@@ -31,7 +31,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Shebuti Rayana, Leman Akoglu* 2014.
 
 1. **Behavior Language Processing with Graph based Feature Generation for Fraud Detection in Online Lending**
-   -*Wei Min, etc.* 2018.
+   - *Wei Min, etc.* 2018.
 
 1. **Detecting node propensity changes in the dynamic degree correctedstochastic block model**
    - *Lisha Yu, William H. Woodall, Kwok-Leung Tsuia* 2018.
