@@ -6,7 +6,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 
 ## Fraud Detection Algorithms
 ### Deep learning
-* [Detecting Fraudulent Behavior Using Recurrent Neural Networks](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf) by Yoshihiro Ando et al. Computer Security Symposium 2016.
+1. **Detecting Fraudulent Behavior Using Recurrent Neural Networks** *by Yoshihiro Ando et al. Computer Security Symposium 2016.* [paper](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf)
 
 * [Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) by Shuhao Wang et al. PKDD 2017. [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
 
