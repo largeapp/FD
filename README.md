@@ -73,10 +73,10 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 
 #### Anomaly Detection
 
-**Survey**
+- **Survey**
 1. [Anomaly Detection: A Survey](https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/07-017.pdf) by Varun Chandola et al. ACM Computing Surveys, Vol. 41, No. 3, 15, 01.07.2009.
 
-**Open Source Toolkit**
+- **Open Source Toolkit**
 1. [Scikit-learn Novelty and Outlier Detection](http://scikit-learn.org/stable/modules/outlier_detection.html)
 1. [Python Outlier Detection (PyOD)](http://pyod.readthedocs.io)
 1. [ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io)
