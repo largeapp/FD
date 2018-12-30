@@ -2,7 +2,20 @@
 # Fraud Detection
 Papers about Fraud detection algorithms, and their application on advertising(e.g. click fraud) and social network(e.g. fake fans), and datasets.
 
-## Advertising
+
+
+## Fraud Detection Algorithms
+### Deep learning
+* [Detecting Fraudulent Behavior Using Recurrent Neural Networks](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf) by Yoshihiro Ando et al. Computer Security Symposium 2016.
+
+* [Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) by Shuhao Wang et al. PKDD 2017. [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
+
+### Graph algorithms 
+* [ iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection](https://www.hindawi.com/journals/misy/2017/6412521/) by Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems 2017.
+
+
+
+## Fraud Detection in Advertising
 
 ### Bluff Ads
 * [Fighting Online Click-Fraud Using Bluff Ads](https://arxiv.org/pdf/1002.2353.pdf) by Hamed Haddadi. ACM Computer Communication Review 2010.
@@ -35,23 +48,20 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 * [2017广告反欺诈白皮书](https://3gimg.qq.com/mig_op/beacon/download/baipishu.pdf) by 腾讯灯塔, 秒针, AdMaster. 2017.
 * [The State of Mobile Fraud Q1 2018](https://hub.appsflyer.com/hubfs/State%20of%20Mobile%20Fraud%20Q1%202018%20AppsFlyer.pdf) by Appsflyer. 2018.
 
-## Social network
+## Fraud Detection in Social Network
 ### Fake fans and zombie fans
 * Jing Deng, et al. Using Bi-level Penalized Logistic Classifier to Detect Zombie Accounts in Online Social Networks. In Proceedings of the Fifth International Conference on Network, Communication and Computing, ACM, 2016.
+
 * Jianbo Wang, et al. Micro-blog spammer detection based on characteristics of social behaviors. In Software Engineering and Service Science (ICSESS), 2017 8th IEEE International Conference on, IEEE, 2017.
+
 * Hongxun Jiang, et al. Discrimination of zombie fans on weibo based on features extraction and business-driven analysis. In Proceedings of the 17th International Conference on Electronic Commerce, ACM, 2015.
+
 * 一种降低微博僵尸粉影响的方法，现代图书情报技术，2012.
+
 * [FRAUDAR: Bounding Graph Fraud in the Face of Camouflage](https://www.andrew.cmu.edu/user/bhooi/projects/fraudar/index.html) by Bryan Hooi et al. KDD 2016.
 
-## Algorithms
-### Deep learning (RNN)
-* [Detecting Fraudulent Behavior Using Recurrent Neural Networks](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf) by Yoshihiro Ando et al. Computer Security Symposium 2016.
-* [Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) by Shuhao Wang et al. PKDD 2017. [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
 
-### Graph algorithms 
-* [ iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection](https://www.hindawi.com/journals/misy/2017/6412521/) by Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems 2017.
-
-## Other Application Areas
+## Related Applications
 
 ### Anomaly Detection
 
@@ -68,7 +78,7 @@ Papers about Fraud detection algorithms, and their application on advertising(e.
 * [APATE: A Novel Approach for Automated Credit Card Transaction Fraud Detection using Network-Based Extensions](https://lirias.kuleuven.be/bitstream/123456789/496406/1/APATE.pdf) by Veronique Van Vlasselaer et al. Decision Support Systems, 2015.
 
 
-## Others
+## Related Resources
 
 ### Report and White Paper
 <!-- * [2017电子商务生态安全白皮书](http://hchdownload.oss-cn-hangzhou.aliyuncs.com/%E4%BC%9A%E8%AE%AE%E6%96%87%E6%A1%A3/2017%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E7%94%9F%E6%80%81%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf) by 电子商务生态安全联盟. 2017.-->
