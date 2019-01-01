@@ -147,16 +147,30 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 
 ## Social Media
 #### Fake fans and zombie fans
-1. Jing Deng, et al. Using Bi-level Penalized Logistic Classifier to Detect Zombie Accounts in Online Social Networks. In Proceedings of the Fifth International Conference on Network, Communication and Computing, ACM, 2016.
 
-1. Jianbo Wang, et al. Micro-blog spammer detection based on characteristics of social behaviors. In Software Engineering and Service Science (ICSESS), 2017 8th IEEE International Conference on, IEEE, 2017.
+1. **Íntegro: Leveraging victim prediction for robust fake account detection in large scale OSNs**
+   - *Boshmaf, Yazan, et al.* Computers & Security 2016.
 
-1. Hongxun Jiang, et al. Discrimination of zombie fans on weibo based on features extraction and business-driven analysis. In Proceedings of the 17th International Conference on Electronic Commerce, ACM, 2015.
+1.  **Using Bi-level Penalized Logistic Classifier to Detect Zombie Accounts in Online Social Networks**
+    - *Jing Deng, et al.*  2016.
 
-1. 一种降低微博僵尸粉影响的方法，现代图书情报技术，2012.
+1. **Micro-blog spammer detection based on characteristics of social behaviors**
+   - *Jianbo Wang, et al.*  2017.
 
-1. [FRAUDAR: Bounding Graph Fraud in the Face of Camouflage](https://www.andrew.cmu.edu/user/bhooi/projects/fraudar/index.html) by Bryan Hooi et al. KDD 2016.
+1. **Discrimination of zombie fans on weibo based on features extraction and business-driven analysis**
+   - *Hongxun Jiang, et al.* 2015.
 
+1. 一种降低微博僵尸粉影响的方法
+   - 现代图书情报技术，2012.
+
+1. **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage**
+   - *Bryan Hooi et al.* KDD 2016.
+   - [paper](https://www.andrew.cmu.edu/user/bhooi/projects/fraudar/index.html) 
+
+1. **Distance-based customer detection in fake follower markets** 
+   - *Jang, Boyeon, Sihyun Jeong, and Chong-kwon Kim*  2018.
+   - [paper](https://www.sciencedirect.com/science/article/abs/pii/S030643791830214X?via%3Dihub)
+   - [data](https://data.mendeley.com/datasets/xvm2yxsxx4/1)
 
 ## Related Applications
 
