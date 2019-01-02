@@ -48,33 +48,39 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Mengyu Zheng, Chuan Zhou, Jia Wu, etc.* 2018.
  
 ##### (3) Dynamic Algorithms
-1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks**
-   - *Wenchao Yu, et al.* KDD 2018.
-   - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
-   - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常
-   
-
-1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
-   - *Karel Vaculik and Lubos Popellınsky* 2016.
-   
-1. **An Ensemble Approach for Event Detection and Characterization in Dynamic Graphs** 
-   - *Shebuti Rayana, Leman Akoglu* 2014.
    
 1. **Fraud Detection using Graph Topology and Temporal Spikes**
    - *Shenghua Liu, Bryan Hooi, Christos Faloutsos* 
-   
-1. **Detecting node propensity changes in the dynamic degree correctedstochastic block model**
-   - *Lisha Yu, William H. Woodall, Kwok-Leung Tsuia* 2018.
-   
+
 1. **GOTCHA! Network-based Fraud Detection for Social Security Fraud**
    - *Veronique Van Vlasselaer, etc.* 2014.
-   
-1. **Localizing Temporal Anomalies in Large Evolving Graphs**
-   - *Teng Wang, etc.*
    
 1. **Realtime Constrained Cycle Detection in Large Dynamic Graphs**
    - *Xiafei Qiu, Wubin Cen, Zhengping Qian, etc.* 2018.
    - Alibaba
+ 
+  *异常检测*
+ 
+1. **An Ensemble Approach for Event Detection and Characterization in Dynamic Graphs** 
+   - *Shebuti Rayana, Leman Akoglu* 2014.
+
+1. **Detecting node propensity changes in the dynamic degree correctedstochastic block model**
+   - *Lisha Yu, William H. Woodall, Kwok-Leung Tsuia* 2018.
+   
+1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
+   - *Karel Vaculik and Lubos Popellınsky* 2016.
+   
+1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks**
+   - *Wenchao Yu, et al.* KDD 2018.
+   - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
+   - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常   
+   
+1. **Localizing Temporal Anomalies in Large Evolving Graphs**
+   - *Teng Wang, etc.*   
+   
+1. **Triaging Anomalies in Dynamic Graphs: Towards Reducing False Positives**
+   - *Teng Wang, et al.* 2015.
+   
    
 ##### (4) Others Graph Algorithms
 1. **Behavior Language Processing with Graph based Feature Generation for Fraud Detection in Online Lending**
