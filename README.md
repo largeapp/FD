@@ -48,6 +48,11 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Mengyu Zheng, Chuan Zhou, Jia Wu, etc.* 2018.
  
 ##### (3) Dynamic Algorithms
+1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks**
+   - *Wenchao Yu, et al.* KDD 2018.
+   - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
+   
+
 1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
    - *Karel Vaculik and Lubos Popellınsky* 2016.
    
