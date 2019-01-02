@@ -46,6 +46,11 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 ##### (2) Network Embedding
 1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
    - *Mengyu Zheng, Chuan Zhou, Jia Wu, etc.* 2018.
+   
+1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks**
+   - *Wenchao Yu, et al.* KDD 2018.
+   - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
+   - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常  
  
 ##### (3) Dynamic Algorithms
    
@@ -68,10 +73,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
    - *Karel Vaculik and Lubos Popellınsky* 2016.
    
-1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks**
-   - *Wenchao Yu, et al.* KDD 2018.
-   - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
-   - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常   
+ 
    
 1. **Localizing Temporal Anomalies in Large Evolving Graphs**
    - *Teng Wang, etc.*   
