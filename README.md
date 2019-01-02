@@ -59,8 +59,6 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Xiafei Qiu, Wubin Cen, Zhengping Qian, etc.* 2018.
    - Alibaba
  
-        *异常检测*
- 
 1. **An Ensemble Approach for Event Detection and Characterization in Dynamic Graphs** 
    - *Shebuti Rayana, Leman Akoglu* 2014.
 
