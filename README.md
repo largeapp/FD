@@ -213,6 +213,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
  * [收录风控领域相关算法Paper](https://github.com/csearch/risky-algorithm-research)-->
 
 ### Reference links
+* [Paper list of network embedding](https://github.com/largeapp/NRLPapers)
+* [knowledge representation learning](https://github.com/thunlp/KRLPapers)
 * [Fraud Detection papers](https://github.com/IPL/fraud-detection-papers) by Xinyu Wang
 
 
