@@ -51,7 +51,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks**
    - *Wenchao Yu, et al.* KDD 2018.
    - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
-   - 嵌入：随机游走，动态：蓄水池，异常检测：密度聚类，假设初始网络正常
+   - 网络嵌入：随机游走；动态：蓄水池；异常检测：密度聚类，假设初始网络正常
    
 
 1. **DGRMiner: Anomaly Detection and Explanation in Dynamic Graphs**
