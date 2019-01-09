@@ -42,6 +42,10 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    
 1. **A survey of data mining and social network analysis based anomaly detection techniques**
    - *Ravneet Kaur , Sarbjeet Singh* 2015.
+   
+1. **A Comprehensive Survey on Graph Neural Networks**
+   - *Zonghan Wu* 2019.
+   - [paper](https://arxiv.org/pdf/1901.00596.pdf)
 
 ##### (2) Network Embedding
 1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
