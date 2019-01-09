@@ -112,6 +112,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 #### Other Related Methods
 1. **Online E-Commerce Fraud: A Large-scale Detection and Analysis** 
    - *Haiqin Weng, Zhao Li, Shouling Ji, etc.*
+   - [paper](https://nesa.zju.edu.cn/download/Online%20E-Commerce%20Fraud%20A%20Large-scale%20Detection%20and%20Analysis.pdf)
+   -  Alibaba
 
 1. **Next Generation Trustworthy Fraud Detection** 
    - *Sihong Xie, Philip S. Yuy* 2018.
