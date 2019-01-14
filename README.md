@@ -51,8 +51,13 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **Graph Neural Networks: A Review of Methods and Applications**
    - *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun*  2018
    - [paper](https://arxiv.org/abs/1812.08434)
-   - [中文解读1](https://www.jiqizhixin.com/articles/2018-12-28-21)
-   - [中文解读2](https://www.jiqizhixin.com/articles/122304)
+   - [中文解读](https://www.jiqizhixin.com/articles/2018-12-28-21)
+  
+   
+1. **Deep Learning on Graphs: A Survey**
+   - *Ziwei Zhang, Peng Cui, Wenwu Zhu* 2018
+   - [paper](https://arxiv.org/abs/1812.04202)
+   - [中文解读](https://www.jiqizhixin.com/articles/122304)
 
 ##### (2) Network Embedding
 1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
