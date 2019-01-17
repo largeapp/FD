@@ -81,7 +81,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - [paper](https://arxiv.org/pdf/1801.07606)
    - discussed in lab meeting (TH Li).
    
-1. More network embedding paper, see [NE-paper-list](https://github.com/largeapp/NRLPapers)
+1. More network embedding papers, see [NE-paper-list](https://github.com/largeapp/NRLPapers)
  
 #### (3) Dynamic Algorithms
    
