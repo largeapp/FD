@@ -59,6 +59,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Ziwei Zhang, Peng Cui, Wenwu Zhu* 2018
    - [paper](https://arxiv.org/abs/1812.04202)
    - [中文解读](https://www.jiqizhixin.com/articles/122304)
+   
+1. More graph neural networks (GNN) papers, see [GNN-paper-list](https://github.com/largeapp/GNNPapers)
 
 #### (2) Network Embedding
 1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
