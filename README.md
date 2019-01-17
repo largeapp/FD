@@ -67,7 +67,18 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks**
    - *Wenchao Yu, et al.* KDD 2018.
    - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
-   - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常  
+   - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常
+   
+1. **Inductive Representation Learning on Large Graphs.**
+   - *William L. Hamilton, Rex Ying, Jure Leskovec.* NIPS 2017.
+   - [paper](https://arxiv.org/pdf/1706.02216.pdf) 
+   - [code](https://github.com/williamleif/GraphSAGE)
+   - discussed in lab meeting (TH Li).
+   
+1. **Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning**
+   - *Qimai Li, Zhichao Han, and Xiao-Ming Wu* 2018.
+   - [paper](https://arxiv.org/pdf/1801.07606)
+   - discussed in lab meeting (TH Li).
  
 #### (3) Dynamic Algorithms
    
