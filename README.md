@@ -9,7 +9,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 3. [Other algorithms](#Other-algorithms)
 4. [Advertising](#advertising)
 5. [Social media](#social-media)  
-6. Other applications: [Anomaly detection](#Anomaly-Detection), [Credit card fraud](#Credit-Card-Fraud)
+6. Other applications: [Anomaly-detection](#Anomaly-Detection), [Credit-card-fraud](#Credit-Card-Fraud)
 7. [Related resources](#related-resources)
 
 ## Deep learning
@@ -243,10 +243,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
  * [收录风控领域相关算法Paper](https://github.com/csearch/risky-algorithm-research)-->
 
 ### Reference links
-* Paper list of network embedding 
-   - [weblink](https://github.com/largeapp/NRLPapers)
-* Paper list of knowledge representation learning 
-   - [weblink](https://github.com/thunlp/KRLPapers)
+* Paper list of network embedding [link](https://github.com/largeapp/NRLPapers)
+* Paper list of knowledge representation learning [link](https://github.com/thunlp/KRLPapers)
 * [Fraud Detection papers](https://github.com/IPL/fraud-detection-papers) by Xinyu Wang
 
 
