@@ -4,14 +4,15 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 
 ##### Table of Contents  
 
-1. [Fraud Detection Algorithms](#fraud-detection-algorithms)  
-2. [Advertising](#advertising)
-3. [Social media](#social-media)  
-4. [Related Applications](#related-applications) 
-5. [Related Resources](#related-resources)
+1. [Deep learning](#deep-learning)
+2. [Graph algorithms](#Graph-algorithms)
+3. [Other algorithms](#Other-algorithms)
+4. [Advertising](#advertising)
+5. [Social media](#social-media)  
+6. [Other Applications](#other-applications) 
+7. [Related Resources](#related-resources)
 
-## Fraud Detection Algorithms
-### Deep learning
+## Deep learning
 1. **Detecting Fraudulent Behavior Using Recurrent Neural Networks** 
    - *Yoshihiro Ando et al. Computer Security Symposium* 2016. 
    - [Paper](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf)
@@ -26,8 +27,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. **Generative adversarial network based telecom fraud detection at the receiving bank**
    - *Yu-Jun Zheng, Xiao-Han Zhou, etc.* Neural Networks, 2018.
 
-### Graph algorithms
-##### (1) Survey
+## Graph algorithms
+#### (1) Survey
 1. **Graph-based Anomaly Detection and Description: A Survey**
    - *Leman Akoglu, Hanghang Tong, Danai Koutra* 2014.
 
@@ -59,7 +60,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - [paper](https://arxiv.org/abs/1812.04202)
    - [中文解读](https://www.jiqizhixin.com/articles/122304)
 
-##### (2) Network Embedding
+#### (2) Network Embedding
 1. **FraudNE: a Joint Embedding Approach for Fraud Detection**
    - *Mengyu Zheng, Chuan Zhou, Jia Wu, etc.* 2018.
    
@@ -68,7 +69,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
    - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常  
  
-##### (3) Dynamic Algorithms
+#### (3) Dynamic Algorithms
    
 1. **Fraud Detection using Graph Topology and Temporal Spikes**
    - *Shenghua Liu, Bryan Hooi, Christos Faloutsos* 
@@ -98,7 +99,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Teng Wang, et al.* 2015.
    
    
-##### (4) Others Graph Algorithms
+#### (4) Others Graph Algorithms
 1. **Behavior Language Processing with Graph based Feature Generation for Fraud Detection in Online Lending**
    - *Wei Min, etc.* 2018.
    
@@ -121,7 +122,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Jinlong Hu, Junjie Liang, and Shoubin Dong. Mobile Information Systems* 2017. 
    - [Paper](https://www.hindawi.com/journals/misy/2017/6412521/) 
 
-#### Other Related Methods
+## Other algorithms
 1. **Online E-Commerce Fraud: A Large-scale Detection and Analysis** 
    - *Haiqin Weng, Zhao Li, Shouling Ji, etc.*
    - [paper](https://nesa.zju.edu.cn/download/Online%20E-Commerce%20Fraud%20A%20Large-scale%20Detection%20and%20Analysis.pdf)
@@ -202,7 +203,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - [paper](https://www.sciencedirect.com/science/article/abs/pii/S030643791830214X?via%3Dihub)
    - [data](https://data.mendeley.com/datasets/xvm2yxsxx4/1)
 
-## Related Applications
+## Other Applications
 
 ### Anomaly Detection
 
