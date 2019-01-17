@@ -9,8 +9,8 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 3. [Other algorithms](#Other-algorithms)
 4. [Advertising](#advertising)
 5. [Social media](#social-media)  
-6. [Other Applications](#other-applications) 
-7. [Related Resources](#related-resources)
+6. Other applications: [Anomaly detection](#Anomaly-Detection), [Credit card fraud](#Credit-Card-Fraud)
+7. [Related resources](#related-resources)
 
 ## Deep learning
 1. **Detecting Fraudulent Behavior Using Recurrent Neural Networks** 
@@ -215,7 +215,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
 1. [Python Outlier Detection (PyOD)](http://pyod.readthedocs.io)
 1. [ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io)
 
-### Credit Card Transaction Fraud
+### Credit Card Fraud
 1. [Learned lessons in credit card fraud detection from a practitioner perspective](http://www.ulb.ac.be/di/map/adalpozz/pdf/FraudDetectionPaper_8.pdf) by A Dal Pozzolo et al. Expert Systems with Applications, 41(10):4915–4928, 2014.
 1. [APATE: A Novel Approach for Automated Credit Card Transaction Fraud Detection using Network-Based Extensions](https://lirias.kuleuven.be/bitstream/123456789/496406/1/APATE.pdf) by Veronique Van Vlasselaer et al. Decision Support Systems, 2015.
 
