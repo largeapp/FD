@@ -68,6 +68,7 @@ Papers about Fraud detection algorithms and resources in advertising(e.g. click 
    - *Wenchao Yu, et al.* KDD 2018.
    - [paper](https://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic)
    - 网络嵌入：随机游走+自编码器；动态：蓄水池；异常检测：密度聚类，假设初始网络正常
+   - discussed in lab meeting (L Chen).
    
 1. **Inductive Representation Learning on Large Graphs.**
    - *William L. Hamilton, Rex Ying, Jure Leskovec.* NIPS 2017.
