@@ -1,16 +1,41 @@
 
 # Fraud Detection
-Papers about Fraud detection algorithms and resources in advertising(e.g. click fraud) and social media(e.g. fake fans).
+Papers and resources about data mining and machine learning for fraud detection in some areas, such as online advertising(e.g. click fraud) and social media(e.g. fake fans).
 
 ##### Table of Contents  
 
-1. [Deep learning](#deep-learning)
-2. [Graph algorithms](#Graph-algorithms)
-3. [Other algorithms](#Other-algorithms)
-4. [Advertising](#advertising)
-5. [Social media](#social-media)  
-6. Other applications: [Anomaly-detection](#Anomaly-Detection), [Credit-card-fraud](#Credit-Card-Fraud)
-7. [Related resources](#related-resources)
+1. [Survey](#survey)
+2. [Deep learning](#deep-learning)
+3. [Graph algorithms](#Graph-algorithms)
+4. [Other algorithms](#Other-algorithms)
+5. [Advertising](#advertising)
+6. [Social media](#social-media)  
+7. Other applications: [Anomaly-detection](#Anomaly-Detection), [Credit-card-fraud](#Credit-Card-Fraud)
+8. [Related resources](#related-resources)
+
+## Survey
+1. Data analysis techniques for fraud detection [wiki](https://en.wikipedia.org/wiki/Data_analysis_techniques_for_fraud_detection)
+
+1. **A Comprehensive Survey of Data Mining-based Fraud Detection Research**
+   - *Clifton Phua, Vincent Lee, Kate Smith, Ross Gayler* 2010.
+   - [paper](https://arxiv.org/abs/1009.6119)
+
+1. **Intelligent financial fraud detection: A comprehensive review**
+   - *Jarrod West, Maumita Bhattacharya* 2016.
+   - [paper](https://www.sciencedirect.com/science/article/pii/S0167404815001261)
+   
+1. **Fraud detection system: A survey**
+   - *Aisha Abdallah, et al.* 2016.
+   - [paper](https://www.sciencedirect.com/science/article/pii/S1084804516300571)
+   
+1. **The application of data mining techniques in financial fraud detection: A classification framework and an academic review of literature**
+   - *E.W.T.Nga, et al.* 2011.
+   - [paper](https://www.sciencedirect.com/science/article/pii/S0167923610001302)
+   
+1. **Survey of Clustering based Financial Fraud Detection Research**
+   - *Andrei Sorin SABAU* 2012.
+   - [paper](https://www.researchgate.net/profile/Andrei_Sabau/publication/267686837_Survey_of_Clustering_based_Financial_Fraud_Detection_Research/links/57597dd308ae9a9c954eff50/Survey-of-Clustering-based-Financial-Fraud-Detection-Research.pdf)
+   
 
 ## Deep learning
 1. **Detecting Fraudulent Behavior Using Recurrent Neural Networks** 
