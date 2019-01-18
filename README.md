@@ -2,7 +2,7 @@
 # Fraud Detection
 Papers and resources about data mining and machine learning for fraud detection in some areas, such as online advertising(e.g. click fraud) and social media(e.g. fake fans).
 
-Contributed by the big data and machine learning application research group in Guangdong Key Laboratory of Communication and Computer Network at South China University of Technology.
+Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
 
 ##### Table of Contents  
 
