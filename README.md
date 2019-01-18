@@ -8,13 +8,14 @@ Papers and resources about data mining and machine learning for fraud detection 
 2. [Deep learning](#deep-learning)
 3. [Graph algorithms](#Graph-algorithms)
 4. [Other algorithms](#Other-algorithms)
-5. [Advertising](#advertising)
-6. [Social media](#social-media)  
-7. Other applications: [Anomaly-detection](#Anomaly-Detection), [Credit-card-fraud](#Credit-Card-Fraud)
+5. Application-1: [Advertising](#advertising)
+6. Application-2: [Social media](#social-media)  
+7. Application-others: [Anomaly-detection](#Anomaly-Detection), [Credit-card-fraud](#Credit-Card-Fraud)
 8. [Related resources](#related-resources)
 
 ## Survey
-1. Data analysis techniques for fraud detection [wiki](https://en.wikipedia.org/wiki/Data_analysis_techniques_for_fraud_detection)
+1. **Data analysis techniques for fraud detection**
+   - [wiki](https://en.wikipedia.org/wiki/Data_analysis_techniques_for_fraud_detection)
 
 1. **A Comprehensive Survey of Data Mining-based Fraud Detection Research**
    - *Clifton Phua, Vincent Lee, Kate Smith, Ross Gayler* 2010.
