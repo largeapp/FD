@@ -8,7 +8,7 @@ Papers and resources about data mining and machine learning for fraud detection 
 2. [Deep learning](#deep-learning)
 3. [Graph algorithms](#Graph-algorithms)
 4. [Other algorithms](#Other-algorithms)
-5. Application-1: [Advertising](#advertising)
+5. Application-1: [Online advertising](#advertising)
 6. Application-2: [Social media](#social-media)  
 7. Application-others: [Anomaly-detection](#Anomaly-Detection), [Credit-card-fraud](#Credit-Card-Fraud)
 8. [Related resources](#related-resources)
