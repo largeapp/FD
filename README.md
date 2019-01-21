@@ -111,6 +111,12 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    - [paper](https://arxiv.org/pdf/1801.07606)
    - discussed in lab meeting (TH Li).
    
+1. **Learning Structural Node Embeddings via Diffusion Wavelets.**
+   - *Claire Donnat, Marinka Zitnik, David Hallac, Jure Leskovec.* KDD 2018. 
+   - [中文解读](http://www.sohu.com/a/252384389_164987)
+   - [paper](https://arxiv.org/pdf/1710.10321.pdf)
+   - [code](https://github.com/snap-stanford/graphwave)
+   
 1. More network embedding papers, see [NE-paper-list](https://github.com/largeapp/NRLPapers)
  
 #### (3) Dynamic Algorithms
