@@ -253,6 +253,8 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    - [paper](https://www.sciencedirect.com/science/article/abs/pii/S030643791830214X?via%3Dihub)
    - [data](https://data.mendeley.com/datasets/xvm2yxsxx4/1)
    
+#### Social media rumors
+   
 1. **中文社交媒体谣言统计语义分析**
    - *刘知远，et al.* 2015.
    - *CED: Credible Early Detection of Social Media Rumors*, 2018. [new paper](https://arxiv.org/abs/1811.04175)
