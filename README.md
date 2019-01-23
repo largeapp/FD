@@ -117,6 +117,12 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    - [paper](https://arxiv.org/pdf/1710.10321.pdf)
    - [code](https://github.com/snap-stanford/graphwave)
    
+1. **Embedding Learning with Events in Heterogeneous Information Networks**
+   - *Huan Gui ; Jialu Liu ; Fangbo Tao ; Meng Jiang ; Brandon Norick ; Lance Kaplan ; Jiawei Han* 2017.
+   - [paper](https://ieeexplore.ieee.org/abstract/document/7997782)
+   - [中文解读](https://blog.csdn.net/hy_jz/article/details/79007448)
+   - 异质信息网络，超图，超边：事件
+   
 1. More network embedding papers, see [NE-paper-list](https://github.com/largeapp/NRLPapers)
  
 #### (3) Dynamic Algorithms
