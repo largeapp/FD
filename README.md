@@ -78,6 +78,11 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
 1. **A survey of data mining and social network analysis based anomaly detection techniques**
    - *Ravneet Kaur , Sarbjeet Singh* 2015.
    
+1. **Modeling Data With Networks + Network Embedding: Problems, Methodologies and Frontiers**
+   - Instructors: Ivan Brugere (University of Illinois at Chicago), Bryan Perozzi (Google), Peng Cui (Tsinghua University), Wenwu Zhu (Tsinghua University), Jian Pei (Simon Fraser University), Tanya Berger-Wolf (University of Illinois at Chicago)
+   - *KDD 2018 Tutorial* 
+   - [ppt](https://ivanbrugere.github.io/kdd2018/)   
+   
 1. **A Comprehensive Survey on Graph Neural Networks**
    - *Zonghan Wu* 2019.
    - [paper](https://arxiv.org/pdf/1901.00596.pdf)
@@ -128,6 +133,7 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    - [paper](https://ieeexplore.ieee.org/abstract/document/7997782)
    - [中文解读](https://blog.csdn.net/hy_jz/article/details/79007448)
    - 异质信息网络，超图，超边：事件
+   
    
 1. More network embedding papers, see [NE-paper-list](https://github.com/largeapp/NRLPapers)
  
