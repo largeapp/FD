@@ -282,6 +282,7 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
 1. **Credit Card Fraud Detection in e-Commerce: An Outlier Detection Approach**
    - *Utkarsh Porwal, Smruthi Mukund* eBay, 2018.
    - [paper](https://arxiv.org/abs/1811.02196)
+   - [中文介绍](https://cloud.tencent.com/developer/article/1369815)
    - Data: UCI and [kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 1. [Learned lessons in credit card fraud detection from a practitioner perspective](http://www.ulb.ac.be/di/map/adalpozz/pdf/FraudDetectionPaper_8.pdf) by A Dal Pozzolo et al. Expert Systems with Applications, 41(10):4915–4928, 2014.
