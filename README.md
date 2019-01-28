@@ -54,6 +54,12 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    
 1. **Generative adversarial network based telecom fraud detection at the receiving bank**
    - *Yu-Jun Zheng, Xiao-Han Zhou, etc.* Neural Networks, 2018.
+   
+1. **Distributed Deep Forest and its Application to Automatic Detection of Cash-out Fraud**
+   - *Ya-Lin Zhang, Jun Zhou, Wenhao Zheng, Ji Feng, Longfei Li, Ziqi Liu, Ming Li, Zhiqiang Zhang, Chaochao Chen, Xiaolong Li, Zhi-Hua Zhou* 2018.
+   - [paper](https://arxiv.org/abs/1805.04234)
+   - 周志华团队和蚂蚁金服合作：用分布式深度森林算法检测套现欺诈 [中文介绍](https://cloud.tencent.com/developer/article/1161616)
+   
 
 ## Graph algorithms
 #### (1) Survey
