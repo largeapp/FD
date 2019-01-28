@@ -279,6 +279,11 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
 1. [ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io)
 
 ### Credit Card Fraud
+1. **Credit Card Fraud Detection in e-Commerce: An Outlier Detection Approach**
+   - *Utkarsh Porwal, Smruthi Mukund* eBay, 2018.
+   - [paper](https://arxiv.org/abs/1811.02196)
+   - Data: UCI and [kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
 1. [Learned lessons in credit card fraud detection from a practitioner perspective](http://www.ulb.ac.be/di/map/adalpozz/pdf/FraudDetectionPaper_8.pdf) by A Dal Pozzolo et al. Expert Systems with Applications, 41(10):4915–4928, 2014.
 1. [APATE: A Novel Approach for Automated Credit Card Transaction Fraud Detection using Network-Based Extensions](https://lirias.kuleuven.be/bitstream/123456789/496406/1/APATE.pdf) by Veronique Van Vlasselaer et al. Decision Support Systems, 2015.
 
