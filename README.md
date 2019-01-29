@@ -133,7 +133,19 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    - [paper](https://ieeexplore.ieee.org/abstract/document/7997782)
    - [中文解读](https://blog.csdn.net/hy_jz/article/details/79007448)
    - 异质信息网络，超图，超边：事件
+ 
+1. **Graph Embedding Techniques, Applications, and Performance: A Survey**
+   - [paper](https://arxiv.org/abs/1705.02801)
+   - *GEM: A Python package for graph embedding methods* 
+   - [code](https://github.com/palash1992/GEM)
+   - 实现了多种静态图嵌入方法
    
+ 
+1. **DynamicGEM: A Library for Dynamic Graph Embedding Methods**
+   - *Goyal, P., Chhetri, S. R., Mehrabi, N., Ferrara, E., & Canedo, A.*  2018.
+   - [paper](https://arxiv.org/abs/1811.10734)
+   - [code](https://github.com/palash1992/DynamicGEM)
+   - 实现了多种动态图嵌入方法
    
 1. More network embedding papers, see [NE-paper-list](https://github.com/largeapp/NRLPapers)
  
