@@ -177,7 +177,8 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    
 1. **Triaging Anomalies in Dynamic Graphs: Towards Reducing False Positives**
    - *Teng Wang, et al.* 2015.
-   
+1. **Fraud Detection in Dynamic Interaction Network** 
+   - *Hao Lin, et al.* 2019.
    
 #### (4) Others Graph Algorithms
 1. **Behavior Language Processing with Graph based Feature Generation for Fraud Detection in Online Lending**
@@ -222,6 +223,10 @@ Contributed by Jinlong Hu, Yi Zhuang, Lang Chen and Tenghui Li.
    - *Ming Pang, Wei Gao, Min Tao, Zhi-Hua Zhou* 2018.
    - [Paper](https://arxiv.org/pdf/1610.04086.pdf)
    - "shilling attacks"
+
+1. **Fraud detection with machine learning** project with some new papers
+   - [link](https://www.researchgate.net/project/Fraud-detection-with-machine-learning)
+
 
 ## Advertising
 
